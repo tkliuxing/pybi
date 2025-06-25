@@ -71,15 +71,15 @@ st.markdown("""
         border-radius: 6px;
         border: 1px solid #e0e0e0;
     }
-    /* 隐藏右上角的 deploy 按钮和菜单 
+    /* 隐藏右上角的 deploy 按钮和菜单  */
     #MainMenu {visibility: hidden;}
     footer {visibility: hidden;}
     header {visibility: hidden;}
-     隐藏 Streamlit 的菜单按钮 
+    /* 隐藏 Streamlit 的菜单按钮  */
     .stDeployButton {display: none;}
     [data-testid="stToolbar"] {display: none;}
     [data-testid="stDecoration"] {display: none;}
-     隐藏结束 */
+    /* 隐藏结束 */
 </style>
 """, unsafe_allow_html=True)
 
