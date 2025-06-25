@@ -111,9 +111,9 @@ MIT License
 
 如有问题或建议，请通过以下方式联系：
 - 提交GitHub Issue
-- 发送邮件至: [your-email@example.com]
+- 发送邮件至: [tkliuxing@me.com]
 
 ---
 
 **版本**: 1.0  
-**最后更新**: 2024年1月 
+**最后更新**: 2025年6月 
